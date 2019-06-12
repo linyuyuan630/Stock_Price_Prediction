@@ -12,6 +12,7 @@ Libraries used:
 
 talib is used to calculate the technical indicators as additional features.
 To install this package with conda run:
+
 conda install -c quantopian ta-lib
 
 'SP500-index-prediction.cvs' is used as the original input data, which was
