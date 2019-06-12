@@ -1,7 +1,7 @@
 # Stock_Price_Prediction
 
 This project predicts next day's SP500 index based on the previous index.
-This is a Udacity nanodegree project. A project proposal is also uploaded.
+This is a Udacity nanodegree project. 
 
 Libraries used:
 - numpy
