@@ -10,6 +10,7 @@ This is a Udacity nanodegree project.
 - talib
 - sklearn
 - matplotlib
+- keras
 
 talib is used to calculate the technical indicators as additional features.
 To install this package with conda run:
